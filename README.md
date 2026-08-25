@@ -159,6 +159,8 @@ Ayrıntı: [`docs/yapay-zeka.md`](docs/yapay-zeka.md)
 
 ## Mimari
 
+![Proofline mimarisi](docs/mimari.svg)
+
 ### Veri modeli
 
 ```
@@ -287,7 +289,7 @@ proofline/
     ├── yapay-zeka.md       aşama bazında kullanım ve sınırlar
     ├── kvkk.md             aşama bazında hukuki dayanak ve tasarım kararları
     ├── plan.md             20 günlük geliştirme takvimi
-    └── mimari.png          tek sayfa şema
+    └── mimari.svg          tek sayfa şema
 ```
 
 Geliştirme planı gün gün [`docs/plan.md`](docs/plan.md) dosyasında ve GitHub Projects panosunda takip edilmektedir.
